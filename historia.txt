@@ -1,1 +1,3 @@
 texto plato para la practica del curso de platzi de git y github que estoy viendo por segunda vez porq no anote todo.
+
+conoci los que hace git restore y git retore --staged
