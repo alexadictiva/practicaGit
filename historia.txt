@@ -18,3 +18,7 @@ parte 2
 parte 1 de la parte dos
 
 parte dos de la parte dos con git reset head
+
+practicando con las reset, rm, reset hard, etc.
+
+y entonces lo sigo editando y luego hago commit
