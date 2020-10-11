@@ -9,4 +9,6 @@ en camara prece alto pero la verdad no lo eso
 s hacen mas caambio, su vida y obra maestra
 esto va a cambiar de acuerdo a como uno vaya queriendo progresar
 
-mañana hablare de esto y me reiré
+mañana hablare de esto y me reiré.
+
+usando el git reset head
