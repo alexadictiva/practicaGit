@@ -2,4 +2,6 @@ texto plato para la practica del curso de platzi de git y github que estoy viend
 
 conoci los que hace git restore y git retore --staged
 
-ahora sé que hace el git rm cuando un archivo ya esta comiteado
+ahora sé que hace el git rm cuando un archivo ya esta comiteado.
+
+en camara prece alto pero la verdad no lo es
