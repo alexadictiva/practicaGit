@@ -2,7 +2,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-
+.cabecera {
+  height: 70px;
+  background: linear-gradient(to top, rgb(30, 173, 161), rgb(11, 107, 172));
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  box-shadow: 0 2px 5px black;
+}
+.cabecera p {
+  margin: 0;
+}
 .container {
   text-align: left;
   width: 60%;
