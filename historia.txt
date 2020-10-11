@@ -14,3 +14,5 @@ mañana hablare de esto y me reiré.
 usando el git reset head
 
 parte 2
+
+parte 1 de la parte dos
