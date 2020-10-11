@@ -5,3 +5,5 @@ conoci los que hace git restore y git retore --staged
 ahora sé que hace el git rm cuando un archivo ya esta comiteado.
 
 en camara prece alto pero la verdad no lo eso
+
+s hacen mas caambio, su vida y obra maestra
