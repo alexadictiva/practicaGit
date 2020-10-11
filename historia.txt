@@ -12,3 +12,5 @@ esto va a cambiar de acuerdo a como uno vaya queriendo progresar
 mañana hablare de esto y me reiré.
 
 usando el git reset head
+
+parte 2
