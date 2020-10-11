@@ -16,3 +16,5 @@ usando el git reset head
 parte 2
 
 parte 1 de la parte dos
+
+parte dos de la parte dos con git reset head
