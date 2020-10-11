@@ -7,13 +7,8 @@ body {
   text-align: left;
   width: 60%;
   padding: 3%;
-  margin: 100px auto;
+  margin: 0 auto;
   border: black solid 1px;
-}
-
-h1 {
-  font-size: 30px;
-  text-align: center;
 }
 
 .post {
