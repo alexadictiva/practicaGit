@@ -21,4 +21,6 @@ parte dos de la parte dos con git reset head
 
 practicando con las reset, rm, reset hard, etc.
 
-y entonces lo sigo editando y luego hago commit
+y entonces lo sigo editando y luego hago commit.
+
+ahora se pureba la conexion con github
