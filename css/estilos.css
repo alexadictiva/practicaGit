@@ -26,3 +26,11 @@ body {
 .post {
   font-size: 27px;
 }
+
+footer {
+  background: linear-gradient(to bottom, rgb(30, 173, 161), rgb(11, 107, 172));
+  color: white;
+}
+footer p {
+  margin: 0;
+}
